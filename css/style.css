@@ -54,12 +54,8 @@ body {
     color: #1da1f2;
 }
 
-#links a.dev-blog:hover {
+#links a.linkedin:hover {
     color: #da4453;
-}
-
-#links a.math-blog:hover {
-    color: #ab528c;
 }
 
 #links a i {
