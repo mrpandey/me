@@ -91,6 +91,18 @@ ul#project-list li a:hover {
     color: #fd971f;
 }
 
+.project-img {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #CCC;
+}
+
+.project-img:hover {
+    border: 1px solid #da4453;
+}
+
 #footer {
     background-color: #000;;
     color: #da4453;
