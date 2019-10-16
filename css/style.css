@@ -1,110 +1,110 @@
 body {
-    background-color: #272822;
-    line-height: 1.5;
-    font-size: 14px;
-    font-family: 'Open Sans', sans-serif;
-    color: #ccc;
+  background-color: #272822;
+  line-height: 1.5;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  color: #ccc;
 }
 
 #details {
-    padding-top: 80px;
-    padding-bottom: 80px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 #avatar img {
-    border-radius: 125px;
-    margin-bottom: 20px;
+  border-radius: 125px;
+  margin-bottom: 20px;
 }
 
 #name {
-    color: #edde45;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 24px;
+  color: #edde45;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
 }
 
 #short-intro {
-    color: #ccc;
+  color: #ccc;
 }
 
 #links {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 #links a {
-    text-decoration: none;
-    font-size: 14px;
-    color: #ccc;
-    display: inline-block;
-    margin-left: 20px;
-    margin-bottom: 20px;
-    padding: 5px 10px;
-    border-radius: 0px;
-    border: 1px solid #ccc;
+  text-decoration: none;
+  font-size: 14px;
+  color: #ccc;
+  display: inline-block;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  border-radius: 0px;
+  border: 1px solid #ccc;
 }
 
 #links a:hover {
-    background-color: black;
+  background-color: black;
 }
 
 #links a.github:hover {
-    color: #edde45;
+  color: #edde45;
 }
 
 #links a.twitter:hover {
-    color: #1da1f2;
+  color: #1da1f2;
 }
 
 #links a.linkedin:hover {
-    color: #da4453;
+  color: #da4453;
 }
 
 #links a i {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 #about {
-    border-top: 1px solid #ccc;
-    padding: 80px 30px;
+  border-top: 1px solid #ccc;
+  padding: 80px 30px;
 }
 
 #about h3 {
-    font-family: 'Roboto Slab', serif;
-    font-weight: 700;
-    font-size: 18px;
-    margin-bottom: 30px;
+  font-family: "Roboto Slab", serif;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 30px;
 }
 
 #about-text {
-    line-height: 1.7;
-    text-align: justify;
+  line-height: 1.7;
+  text-align: justify;
 }
 
 ul#project-list li {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 ul#project-list li a {
-    color: #edde45;
+  color: #edde45;
 }
 
 ul#project-list li a:hover {
-    color: #fd971f;
+  color: #fd971f;
 }
 
 .project-img {
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border: 1px solid #CCC;
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
 }
 
 .project-img:hover {
-    border: 1px solid #da4453;
+  border: 1px solid #da4453;
 }
 
 #footer {
-    background-color: #000;;
-    color: #da4453;
-    padding: 10px;
+  background-color: #000;
+  color: #da4453;
+  padding: 10px;
 }
