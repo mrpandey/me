@@ -47,7 +47,7 @@ body {
 }
 
 #links a.github:hover {
-  color: #edde45;
+  color: #239a3b;
 }
 
 #links a.twitter:hover {
@@ -55,6 +55,10 @@ body {
 }
 
 #links a.linkedin:hover {
+  color: #0077b5;
+}
+
+#links a.mathblog:hover {
   color: #da4453;
 }
 
