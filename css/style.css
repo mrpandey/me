@@ -6,6 +6,20 @@ body {
   color: #ccc;
 }
 
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1366px;
+  }
+}
+
+a {
+  color: #a6e22e;
+}
+
+a:hover {
+  color: #66e9df;
+}
+
 #details {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -28,6 +42,14 @@ body {
 
 #links {
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  #links {
+    max-width: 50%;
+  }
 }
 
 #links a {
@@ -48,6 +70,14 @@ body {
 
 #links a.github:hover {
   color: #239a3b;
+}
+
+#links a.stackoverflow:hover {
+  color: #f48024;
+}
+
+#links a.devblog:hover {
+  color: #66e9df;
 }
 
 #links a.twitter:hover {
@@ -108,7 +138,7 @@ ul#project-list li a:hover {
 }
 
 #footer {
-  background-color: #000;
-  color: #da4453;
+  background-color: #222;
+  color: #ccc;
   padding: 10px;
 }
