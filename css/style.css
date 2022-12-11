@@ -31,13 +31,15 @@ a:hover {
 }
 
 #name {
-  color: #edde45;
-  font-family: "Open Sans", sans-serif;
+  color: #ccc;
+  font-family: "Roboto Slab", serif;
   font-size: 24px;
+  margin-bottom: 10px;
 }
 
 #short-intro {
   color: #ccc;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 #links {
@@ -69,7 +71,7 @@ a:hover {
 }
 
 #links a.github:hover {
-  color: #239a3b;
+  color: #a6e22e;
 }
 
 #links a.stackoverflow:hover {
@@ -103,7 +105,6 @@ a:hover {
 
 #about h3 {
   font-family: "Roboto Slab", serif;
-  font-weight: 700;
   font-size: 18px;
   margin-bottom: 30px;
 }
